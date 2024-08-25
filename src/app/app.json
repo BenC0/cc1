@@ -1,0 +1,25 @@
+{
+  "name": "fluidityOS",
+  "description": "Developed for Fluidity.",
+  "uid": "property_refresh",
+  "scopes": [
+    "crm.objects.companies.read",
+    "crm.objects.companies.write",
+    "crm.objects.contacts.read",
+    "crm.objects.contacts.write",
+    "crm.schemas.deals.write",
+    "crm.schemas.contacts.write",
+    "crm.schemas.companies.write",
+    "tickets"
+  ],
+  "public": false,
+  "extensions": {
+    "crm": {
+      "cards": [
+        {
+          "file": "extensions/property-refresh-card.json"
+        }
+      ]
+    }
+  }
+}

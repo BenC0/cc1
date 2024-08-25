@@ -1,0 +1,12 @@
+{
+    "button_text": "Log Discovery",
+    "fields": [
+        { "id": "average_order_value_uk_inc_vat" },
+        { "id": "decision_making_process" },
+        { "id": "development_type" },
+        { "id": "goals" },
+        { "id": "single_line_example" },
+        { "id": "date_example" },
+        { "id": "single_checkbox__radio__example" }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "appFunctions": {
+    "getCurrentValues": {
+      "file": "getCurrentValues.js",
+      "secrets": []
+    },
+    "getProperty": {
+      "file": "getProperty.js",
+      "secrets": []
+    },
+    "updateProperty": {
+      "file": "updateProperty.js",
+      "secrets": []
+    }
+  }
+}
